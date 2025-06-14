@@ -10,3 +10,10 @@ Welcome to my Deep Learning Notes repository! This collection contains detailed 
 - Deep Learning vs Machine Learning
 - Neurons and Neural Networks
 - Types of Deep Learning Networks
+
+### Core Concepts
+- Single Layer and Multi-Layer Perceptrons (ANN)
+- Forward and Backward Propagation
+- Activation Functions
+- Loss Functions
+- Optimizers in Neural Networks
