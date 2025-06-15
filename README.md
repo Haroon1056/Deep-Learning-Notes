@@ -18,7 +18,7 @@ Welcome to my Deep Learning Notes repository! This collection contains detailed 
 - Loss Functions
 - Optimizers in Neural Networks
 
-### 🔧 Implementation & Practice
+### Implementation & Practice
 - Perceptron Implementation (using scikit-learn)
 - ANN Practical using Keras
 - Hyperparameter Tuning
