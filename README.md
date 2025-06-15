@@ -17,3 +17,10 @@ Welcome to my Deep Learning Notes repository! This collection contains detailed 
 - Activation Functions
 - Loss Functions
 - Optimizers in Neural Networks
+
+### 🔧 Implementation & Practice
+- Perceptron Implementation (using scikit-learn)
+- ANN Practical using Keras
+- Hyperparameter Tuning
+- Techniques to Improve Neural Networks (Regularization, Dropout, BatchNorm)
+- Overfitting & Early Stopping
