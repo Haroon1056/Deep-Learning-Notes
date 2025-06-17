@@ -18,6 +18,12 @@ Welcome to my Deep Learning Notes repository! This collection contains detailed 
 - Loss Functions
 - Optimizers in Neural Networks
 
+### Advanced Topics
+- Vanishing/Exploding Gradient Problem
+- Convolutional Neural Networks (CNN)
+- CNN Practical (Image Classification)
+- Choosing Activation and Loss Functions for Different Tasks
+
 ### Implementation & Practice
 - Perceptron Implementation (using scikit-learn)
 - ANN Practical using Keras
