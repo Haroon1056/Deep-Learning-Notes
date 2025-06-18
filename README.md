@@ -30,3 +30,17 @@ Welcome to my Deep Learning Notes repository! This collection contains detailed 
 - Convolutional Neural Networks (CNN)
 - CNN Practical (Image Classification)
 - Choosing Activation and Loss Functions for Different Tasks
+
+---
+
+## Libraries & Tools Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- Scikit-learn
+- TensorFlow / Keras
+- mlxtend (for decision region visualization)
+
+---
