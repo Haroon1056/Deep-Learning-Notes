@@ -44,3 +44,19 @@ Welcome to my Deep Learning Notes repository! This collection contains detailed 
 - mlxtend (for decision region visualization)
 
 ---
+
+## File Structure
+
+Deep-Learning-Notes/
+│
+├── deep_learning_notes.docx # Complete notes in Word format
+├── Deep Learning Notes.ipynb # Jupyter Notebook for practical code
+└── README.md # This file
+
+---
+
+## How to Use
+
+- You can read the `.docx` for theory or explore the `.ipynb` file for practical code.
+- Use the notebooks to experiment and modify code to enhance understanding.
+- Recommended to open the Jupyter Notebook in VSCode or Jupyter Lab.
