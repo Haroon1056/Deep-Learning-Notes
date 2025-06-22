@@ -48,10 +48,9 @@ Welcome to my Deep Learning Notes repository! This collection contains detailed 
 ## File Structure
 
 Deep-Learning-Notes/
-│
-├── deep_learning_notes.docx # Complete notes in Word format /n
-├── Deep Learning Notes.ipynb # Jupyter Notebook for practical code /n
-└── README.md # This file
+- ├── deep_learning_notes.docx # Complete notes in Word format
+- ├── Deep Learning Notes.ipynb # Jupyter Notebook for practical code 
+- └── README.md # This file
 
 ---
 
